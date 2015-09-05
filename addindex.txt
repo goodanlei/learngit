@@ -1,0 +1,6 @@
+添加到缓存区
+只用commit可以吗    远程的不变
+用commit+push怎么样   当然可以了
+origin上面添加一些新内容   origin上面添加一些新内容     origin覆盖本地，1.获取git fetch origin 2.覆盖 git reset --hard origin/master
+
+origin 更改些内容  本地也改一些  不是同一个文件  本地的添加到库，origin添加到库， 两库在合并 ?
