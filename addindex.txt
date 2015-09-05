@@ -1,3 +1,4 @@
 添加到缓存区
 只用commit可以吗    远程的不变
 用commit+push怎么样   当然可以了
+origin上面添加一些新内容
