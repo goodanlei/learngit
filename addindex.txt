@@ -5,4 +5,5 @@ origin上面添加一些新内容   origin上面添加一些新内容     origin
 
 origin 更改些内容  本地也改一些  不是同一个文件  本地的添加到库，origin添加到库， 两库在合并 ? pull只提交本地,push提交到远程
 add a word
+add 2 word
 
